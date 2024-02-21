@@ -13,3 +13,9 @@ C:\Users\Johnny\source\repos\GroupProject\GroupProject\obj\Debug\GroupProject.Fo
 C:\Users\Johnny\source\repos\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormCustom.resources
 C:\Users\Johnny\source\repos\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormMatch.resources
 C:\Users\Johnny\source\repos\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormSearch.resources
+C:\Users\Johnny\source\repos\GroupProject\GroupProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Johnny\source\repos\GroupProject\GroupProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Johnny\source\repos\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.CopyComplete
+C:\Users\Johnny\source\repos\GroupProject\GroupProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Johnny\source\repos\GroupProject\GroupProject\bin\Debug\itextsharp.dll
+C:\Users\Johnny\source\repos\GroupProject\GroupProject\bin\Debug\itextsharp.xml
