@@ -53,6 +53,19 @@ namespace GroupProject
         {
             public List<Player> player { get; set; }
         }
+
+        public class Team
+        {
+            public string strTeam { get; set; }
+            public string strSport { get; set; }
+            public string strPlayer { get; set; }
+            public string strPosition { get; set; }
+            public string strNationality { get; set; }
+            public string strBirthLocation { get; set; }
+            public string dateBorn { get; set; }
+            public string strSigning { get; set; }
+            public string strWage { get; set; }
+        }
     }
 }
 

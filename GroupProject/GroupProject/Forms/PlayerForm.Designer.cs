@@ -41,14 +41,14 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(324, 76);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(64, 13);
+            this.label1.Size = new System.Drawing.Size(62, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Player FOrm";
+            this.label1.Text = "Player Form";
             // 
             // dgvPlayers
             // 
             this.dgvPlayers.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvPlayers.Location = new System.Drawing.Point(50, 105);
+            this.dgvPlayers.Location = new System.Drawing.Point(52, 118);
             this.dgvPlayers.Name = "dgvPlayers";
             this.dgvPlayers.Size = new System.Drawing.Size(705, 150);
             this.dgvPlayers.TabIndex = 1;

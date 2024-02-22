@@ -19,3 +19,24 @@ C:\Users\Johnny\source\repos\GroupProject\GroupProject\obj\Debug\GroupProject.cs
 C:\Users\Johnny\source\repos\GroupProject\GroupProject\bin\Debug\BouncyCastle.Crypto.dll
 C:\Users\Johnny\source\repos\GroupProject\GroupProject\bin\Debug\itextsharp.dll
 C:\Users\Johnny\source\repos\GroupProject\GroupProject\bin\Debug\itextsharp.xml
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\bin\Debug\GroupProject.exe.config
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\bin\Debug\GroupProject.exe
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\bin\Debug\GroupProject.pdb
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\bin\Debug\BouncyCastle.Crypto.dll
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\bin\Debug\itextsharp.dll
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\bin\Debug\Newtonsoft.Json.dll
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\bin\Debug\itextsharp.xml
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\bin\Debug\Newtonsoft.Json.xml
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.AssemblyReference.cache
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.FormMainMenu.resources
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormCustom.resources
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormMatch.resources
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormSearch.resources
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormTeams.resources
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.PlayerForm.resources
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.cache
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupPro.DC9F1969.Up2Date
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.exe
+F:\Group Project\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
