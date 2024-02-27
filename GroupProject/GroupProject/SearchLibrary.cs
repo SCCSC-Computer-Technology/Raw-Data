@@ -11,6 +11,19 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Libraries;
 
+/* Deigned with overload
+ * To see if a field contains a string use:
+ * WhatToSearch(string league, string searchWhat, string searchVal)
+ * 
+ * To seach between 2 numerical values use:
+ * WhatToSearch(string league, string searchWhat, string minVal, string maxVal)
+ * 
+ * Both will return the EnumerableRowCollection so should be connected to another classes using:
+ * ___DataGridView.DataSource = WhatToSearch(...);
+ * this should populate the grid
+*/
+
+
 // I would have liked this to have been a different folder (i.e. solution > Libraries > SearchLibrary. instead of solution > GroupProject > SearchLibrary)
 // but then i'd have to connect the data sets again, and i wasn't sure if that would just make a hug mess or not.
 
