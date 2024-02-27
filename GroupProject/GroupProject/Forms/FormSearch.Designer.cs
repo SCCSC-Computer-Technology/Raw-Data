@@ -29,22 +29,42 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
+            this.searchForTextBox = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(336, 140);
+            this.label1.Location = new System.Drawing.Point(331, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(67, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Form Search";
+            // 
+            // searchForTextBox
+            // 
+            this.searchForTextBox.Location = new System.Drawing.Point(12, 97);
+            this.searchForTextBox.Name = "searchForTextBox";
+            this.searchForTextBox.Size = new System.Drawing.Size(248, 20);
+            this.searchForTextBox.TabIndex = 1;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(13, 78);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(95, 13);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "What to search for";
             // 
             // FormSearch
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.searchForTextBox);
             this.Controls.Add(this.label1);
             this.Name = "FormSearch";
             this.Text = "Search for your sucky team";
@@ -56,5 +76,7 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox searchForTextBox;
+        private System.Windows.Forms.Label label2;
     }
 }

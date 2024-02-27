@@ -22,6 +22,7 @@ namespace GroupProject
 
         {
             InitializeComponent();
+            //DataBaseLoader.CnnVal(ConnectionString);
             random = new Random();
             btnCloseChildForm.Visible = false;
             this.Text = string.Empty;
