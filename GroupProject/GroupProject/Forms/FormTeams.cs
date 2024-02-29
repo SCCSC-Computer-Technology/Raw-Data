@@ -192,26 +192,11 @@ namespace GroupProject.Forms
             comboBoxSports.SelectedIndex = 0; // Select the first item by default
             comboBoxSports.SelectedIndexChanged += ComboBoxSports_SelectedIndexChanged;
         }
-
-        private void btnCoolLook_MouseEnter(object sender, EventArgs e)
-        {
-            btnSearch.BackColor = Color.FromArgb(25, 118, 210); // Darker shade when hovered
-            btnGeneratePDF.BackColor = Color.FromArgb(25, 118, 210);
-        }
-        private void btnCoolLook_MouseLeave(object sender, EventArgs e)
-        {
-            btnSearch.BackColor = Color.FromArgb(33, 150, 243); // Original color
-            btnGeneratePDF.BackColor = Color.FromArgb(33, 150, 243);
-        }
         private async void PlayerForm_Load(object sender, EventArgs e)
         {
 
             // Placeholder for future async operations
             await Task.Delay(1); // Not recommended for production code without a good reason
         }
-
-
-
-
     }
 }
