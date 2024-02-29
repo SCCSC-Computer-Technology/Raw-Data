@@ -105,6 +105,7 @@
       <DependentUpon>PlayerForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\SearchLibrary.cs" />
+    <Compile Include="Forms\SortLibrary.cs" />
     <Compile Include="Forms\WNBADataClasses.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

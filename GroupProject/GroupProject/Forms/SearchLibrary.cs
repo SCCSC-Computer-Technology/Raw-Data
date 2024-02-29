@@ -38,7 +38,7 @@ using Libraries;
 
 namespace GroupProject
 {
-    internal class SearchLibrary
+    public class SearchLibrary
     {
         // public variables go here
 

@@ -68,10 +68,16 @@
             this.dataGridViewTextBoxColumn19 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn20 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn21 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.sortButton = new System.Windows.Forms.Button();
+            this.descRadioButton = new System.Windows.Forms.RadioButton();
+            this.ascRadioButton = new System.Windows.Forms.RadioButton();
+            this.sortComboBox = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.baseballBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.baseballBindingNavigator)).BeginInit();
             this.baseballBindingNavigator.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewSports)).BeginInit();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -378,11 +384,65 @@
             this.dataGridViewTextBoxColumn21.HeaderText = "SSMA_TimeStamp";
             this.dataGridViewTextBoxColumn21.Name = "dataGridViewTextBoxColumn21";
             // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.sortButton);
+            this.groupBox1.Controls.Add(this.descRadioButton);
+            this.groupBox1.Controls.Add(this.ascRadioButton);
+            this.groupBox1.Controls.Add(this.sortComboBox);
+            this.groupBox1.Location = new System.Drawing.Point(553, 326);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(235, 122);
+            this.groupBox1.TabIndex = 9;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Sort";
+            // 
+            // sortButton
+            // 
+            this.sortButton.Location = new System.Drawing.Point(68, 89);
+            this.sortButton.Name = "sortButton";
+            this.sortButton.Size = new System.Drawing.Size(75, 23);
+            this.sortButton.TabIndex = 3;
+            this.sortButton.Text = "Sort";
+            this.sortButton.UseVisualStyleBackColor = true;
+            this.sortButton.Click += new System.EventHandler(this.sortButton_Click);
+            // 
+            // descRadioButton
+            // 
+            this.descRadioButton.AutoSize = true;
+            this.descRadioButton.Location = new System.Drawing.Point(109, 60);
+            this.descRadioButton.Name = "descRadioButton";
+            this.descRadioButton.Size = new System.Drawing.Size(82, 17);
+            this.descRadioButton.TabIndex = 2;
+            this.descRadioButton.TabStop = true;
+            this.descRadioButton.Text = "Descending";
+            this.descRadioButton.UseVisualStyleBackColor = true;
+            // 
+            // ascRadioButton
+            // 
+            this.ascRadioButton.AutoSize = true;
+            this.ascRadioButton.Location = new System.Drawing.Point(18, 60);
+            this.ascRadioButton.Name = "ascRadioButton";
+            this.ascRadioButton.Size = new System.Drawing.Size(75, 17);
+            this.ascRadioButton.TabIndex = 1;
+            this.ascRadioButton.TabStop = true;
+            this.ascRadioButton.Text = "Ascending";
+            this.ascRadioButton.UseVisualStyleBackColor = true;
+            // 
+            // sortComboBox
+            // 
+            this.sortComboBox.FormattingEnabled = true;
+            this.sortComboBox.Location = new System.Drawing.Point(44, 19);
+            this.sortComboBox.Name = "sortComboBox";
+            this.sortComboBox.Size = new System.Drawing.Size(121, 21);
+            this.sortComboBox.TabIndex = 0;
+            // 
             // FormTeams
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.dataGridViewSports);
             this.Controls.Add(this.baseballBindingNavigator);
             this.Controls.Add(this.comboBoxSports);
@@ -394,6 +454,8 @@
             this.baseballBindingNavigator.ResumeLayout(false);
             this.baseballBindingNavigator.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewSports)).EndInit();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -439,5 +501,10 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn19;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn20;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn21;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.Button sortButton;
+        private System.Windows.Forms.RadioButton descRadioButton;
+        private System.Windows.Forms.RadioButton ascRadioButton;
+        private System.Windows.Forms.ComboBox sortComboBox;
     }
 }

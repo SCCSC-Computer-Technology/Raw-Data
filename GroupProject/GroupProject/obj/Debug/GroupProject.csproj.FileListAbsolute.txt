@@ -84,3 +84,26 @@ F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProjec
 F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupPro.DC9F1969.Up2Date
 F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.exe
 F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
+F:\Raw-Data\GroupProject\GroupProject\bin\Debug\GroupProject.exe.config
+F:\Raw-Data\GroupProject\GroupProject\bin\Debug\GroupProject.exe
+F:\Raw-Data\GroupProject\GroupProject\bin\Debug\GroupProject.pdb
+F:\Raw-Data\GroupProject\GroupProject\bin\Debug\BouncyCastle.Crypto.dll
+F:\Raw-Data\GroupProject\GroupProject\bin\Debug\itextsharp.dll
+F:\Raw-Data\GroupProject\GroupProject\bin\Debug\Libraries.dll
+F:\Raw-Data\GroupProject\GroupProject\bin\Debug\Newtonsoft.Json.dll
+F:\Raw-Data\GroupProject\GroupProject\bin\Debug\Libraries.pdb
+F:\Raw-Data\GroupProject\GroupProject\bin\Debug\itextsharp.xml
+F:\Raw-Data\GroupProject\GroupProject\bin\Debug\Newtonsoft.Json.xml
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.AssemblyReference.cache
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.FormMainMenu.resources
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormCustom.resources
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormMatch.resources
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormSearch.resources
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormTeams.resources
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.PlayerForm.resources
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.cache
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupPro.DC9F1969.Up2Date
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.exe
+F:\Raw-Data\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
