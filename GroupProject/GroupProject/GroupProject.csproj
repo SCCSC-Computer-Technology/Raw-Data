@@ -104,6 +104,7 @@
     <Compile Include="Forms\PlayerForm.Designer.cs">
       <DependentUpon>PlayerForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\SearchLibrary.cs" />
     <Compile Include="Forms\WNBADataClasses.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -111,6 +112,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SportsDataDataSet.cs">
+      <DependentUpon>SportsDataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SportsDataDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SportsDataDataSet.xsd</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="FormMainMenu.resx">
       <DependentUpon>FormMainMenu.cs</DependentUpon>
     </EmbeddedResource>
@@ -175,12 +184,29 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="SportsDataDataSet.xsc">
+      <DependentUpon>SportsDataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SportsDataDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SportsDataDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SportsDataDataSet.xss">
+      <DependentUpon>SportsDataDataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Raw-Data\GroupProject\Libraries\Libraries.csproj">
+      <Project>{eecc3a5e-0de8-4b17-804c-256e5f793965}</Project>
+      <Name>Libraries</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

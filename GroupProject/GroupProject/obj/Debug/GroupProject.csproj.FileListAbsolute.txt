@@ -61,3 +61,26 @@ C:\Users\Johnny\Source\Repos\Raw-Data\db\GroupProject\GroupProject\obj\Debug\Gro
 C:\Users\Johnny\Source\Repos\Raw-Data\db\GroupProject\GroupProject\obj\Debug\GroupPro.DC9F1969.Up2Date
 C:\Users\Johnny\Source\Repos\Raw-Data\db\GroupProject\GroupProject\obj\Debug\GroupProject.exe
 C:\Users\Johnny\Source\Repos\Raw-Data\db\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\bin\Debug\GroupProject.exe.config
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\bin\Debug\GroupProject.exe
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\bin\Debug\GroupProject.pdb
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\bin\Debug\BouncyCastle.Crypto.dll
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\bin\Debug\itextsharp.dll
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\bin\Debug\Libraries.dll
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\bin\Debug\Newtonsoft.Json.dll
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\bin\Debug\Libraries.pdb
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\bin\Debug\itextsharp.xml
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\bin\Debug\Newtonsoft.Json.xml
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.AssemblyReference.cache
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.FormMainMenu.resources
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormCustom.resources
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormMatch.resources
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormSearch.resources
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.FormTeams.resources
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Forms.PlayerForm.resources
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.Properties.Resources.resources
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.GenerateResource.cache
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.csproj.CoreCompileInputs.cache
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupPro.DC9F1969.Up2Date
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.exe
+F:\206 Code Review\Raw-Data-main\GroupProject\GroupProject\obj\Debug\GroupProject.pdb
