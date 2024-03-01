@@ -21,7 +21,6 @@ namespace GroupProject
         public FormMainMenu()
 
         {
-            this.StartPosition = FormStartPosition.CenterScreen;
             InitializeComponent();
             random = new Random();
             btnCloseChildForm.Visible = false;

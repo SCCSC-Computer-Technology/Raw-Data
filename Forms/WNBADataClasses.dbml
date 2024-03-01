@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SportsData" Class="WNBADataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=96.37.36.204;Initial Catalog=SportsData;Persist Security Info=True;User ID=AppAccess;Trust Server Certificate=True" SettingsObjectName="GroupProject.Properties.Settings" SettingsPropertyName="SportsDataConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.WNBA" Member="WNBAs">
+    <Type Name="WNBA">
+      <Column Name="[Player Name]" Member="Player_Name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="GP" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="GS" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MIN" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="PTS" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[OR]" Member="OR" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DR" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="REB" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="AST" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="STL" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="BLK" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[TO]" Member="TO" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="PF" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[AST/TO]" Member="AST_TO" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="FGM" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="FGA" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[FG%]" Member="FG_" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[3PM]" Member="_3PM" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[3PA]" Member="_3PA" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[3P%]" Member="_3P_" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="FTM" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="FTA" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[FT%]" Member="FT_" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Position" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="[Team Name]" Member="Team_Name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SSMA_TimeStamp" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+</Database>
