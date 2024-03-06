@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SportsData" Class="BaseballDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=96.37.36.204;Initial Catalog=SportsData;Persist Security Info=True;User ID=AppAccess;Trust Server Certificate=True" SettingsObjectName="GroupProject.Properties.Settings" SettingsPropertyName="SportsDataConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Baseball" Member="Baseballs">
+    <Type Name="Baseball">
+      <Column Name="[Player Name]" Member="Player_Name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Position" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="GP" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="AB" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="R" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="H" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[2B]" Member="_2B" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[3B]" Member="_3B" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="HR" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="RBI" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="TB" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="BB" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SO" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SB" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="AVG" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="OBP" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="SLG" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="OPS" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="WAR" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[Team Name]" Member="Team_Name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SSMA_TimeStamp" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+</Database>
