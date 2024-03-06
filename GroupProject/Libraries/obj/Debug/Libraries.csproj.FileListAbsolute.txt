@@ -1,0 +1,30 @@
+F:\Group Project\Raw-Data-main\GroupProject\Libraries\bin\Debug\Libraries.dll
+F:\Group Project\Raw-Data-main\GroupProject\Libraries\bin\Debug\Libraries.pdb
+F:\Group Project\Raw-Data-main\GroupProject\Libraries\obj\Debug\Libraries.csproj.AssemblyReference.cache
+F:\Group Project\Raw-Data-main\GroupProject\Libraries\obj\Debug\Libraries.csproj.CoreCompileInputs.cache
+F:\Group Project\Raw-Data-main\GroupProject\Libraries\obj\Debug\Libraries.dll
+F:\Group Project\Raw-Data-main\GroupProject\Libraries\obj\Debug\Libraries.pdb
+F:\Raw-Data\GroupProject\Libraries\bin\Debug\Libraries.dll
+F:\Raw-Data\GroupProject\Libraries\bin\Debug\Libraries.pdb
+F:\Raw-Data\GroupProject\Libraries\obj\Debug\Libraries.csproj.AssemblyReference.cache
+F:\Raw-Data\GroupProject\Libraries\obj\Debug\Libraries.csproj.CoreCompileInputs.cache
+F:\Raw-Data\GroupProject\Libraries\obj\Debug\Libraries.dll
+F:\Raw-Data\GroupProject\Libraries\obj\Debug\Libraries.pdb
+G:\Raw-Data-2024-03-01-1803\Raw-Data\GroupProject\Libraries\obj\Debug\Libraries.csproj.AssemblyReference.cache
+G:\Raw-Data-2024-03-01-1803\Raw-Data\GroupProject\Libraries\obj\Debug\Libraries.csproj.CoreCompileInputs.cache
+G:\Raw-Data-2024-03-01-1803\Raw-Data\GroupProject\Libraries\obj\Debug\Libraries.dll
+G:\Raw-Data-2024-03-01-1803\Raw-Data\GroupProject\Libraries\obj\Debug\Libraries.pdb
+G:\Raw-Data-2024-03-01-1803\Raw-Data\GroupProject\Libraries\bin\Debug\Libraries.dll
+G:\Raw-Data-2024-03-01-1803\Raw-Data\GroupProject\Libraries\bin\Debug\Libraries.pdb
+G:\GroupProject, Johnny updates\GroupProject\Libraries\bin\Debug\Libraries.dll
+G:\GroupProject, Johnny updates\GroupProject\Libraries\bin\Debug\Libraries.pdb
+G:\GroupProject, Johnny updates\GroupProject\Libraries\obj\Debug\Libraries.csproj.AssemblyReference.cache
+G:\GroupProject, Johnny updates\GroupProject\Libraries\obj\Debug\Libraries.csproj.CoreCompileInputs.cache
+G:\GroupProject, Johnny updates\GroupProject\Libraries\obj\Debug\Libraries.dll
+G:\GroupProject, Johnny updates\GroupProject\Libraries\obj\Debug\Libraries.pdb
+C:\Users\Johnny\Source\Repos\Raw-Data\run\GroupProject\Libraries\bin\Debug\Libraries.dll
+C:\Users\Johnny\Source\Repos\Raw-Data\run\GroupProject\Libraries\bin\Debug\Libraries.pdb
+C:\Users\Johnny\Source\Repos\Raw-Data\run\GroupProject\Libraries\obj\Debug\Libraries.csproj.AssemblyReference.cache
+C:\Users\Johnny\Source\Repos\Raw-Data\run\GroupProject\Libraries\obj\Debug\Libraries.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Source\Repos\Raw-Data\run\GroupProject\Libraries\obj\Debug\Libraries.dll
+C:\Users\Johnny\Source\Repos\Raw-Data\run\GroupProject\Libraries\obj\Debug\Libraries.pdb
